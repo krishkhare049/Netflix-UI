@@ -1,1 +1,1 @@
-Hi, This is Netflix India -UI developed using HTML, CSS
+Hi, This is Netflix India -Landing Page developed using HTML, CSS
